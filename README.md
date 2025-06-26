@@ -1,4 +1,4 @@
-# anomalydetection
+# cymothoa
 
 Contributors:
 
