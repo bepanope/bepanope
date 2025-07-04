@@ -1,4 +1,4 @@
-# cymothoa
+# potato
 
 Contributors:
 
