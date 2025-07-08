@@ -1,4 +1,4 @@
-# potato
+# pgrwl
 
 Contributors:
 
